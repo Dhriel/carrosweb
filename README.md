@@ -1,4 +1,5 @@
-![mockup do site](https://imagesupload.net/images/hhtdK.png)
+
+![webcarros mockup](https://github.com/Dhriel/carrosweb/assets/92495012/bfe8bfcc-e11e-4a96-821f-50de4618e82d)
 
 # Web Carros
 Plataforma de venda e compra de carros.
@@ -30,11 +31,6 @@ Esse um site para divulgação de carros onde é possível vizualizar os carros 
 [Meu Linkedin](https://www.linkedin.com/in/adrielrochadev/)
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-
-
-![mockup do site](https://imagesupload.net/images/hhhsT.png)
-![mockup do site](https://imagesupload.net/images/hhjY3.png)
-![mockup do site](https://imagesupload.net/images/hhEmy.png)
 
 
 ![WebCars](https://github.com/Dhriel/carrosweb/assets/92495012/5cc0b746-8698-4f38-8f95-86ca96bf37ae)
